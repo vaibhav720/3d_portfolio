@@ -211,7 +211,28 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/vaibhav720/Stock-Portfolio-Manager",
+    },
+    {
+      name: "Chat App using Nest.js, React Native",
+      description:
+        "Used React Native (mobile application), Nest.js (serverSide Application), Typescript (structured Code), PostgresSQL (Database Management), Docker (Containerization), RabbitMQ (Message broker) and Redis (caching and improving performance) to develop a Microservice Chat Application",
+      tags: [
+        {
+          name: "react-native",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Nest.js",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Docker",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/vaibhav720/Nestjs-React-Native-chat-app",
     },
     {
       name: "Blog Page using Next.js and Strapi",
@@ -231,8 +252,50 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: tripguide,
+      source_code_link: "https://github.com/vaibhav720/Blog-page-using-Nextjs-and-Strapi/blob/main/README.md",
+    },
+    {
+      name: "NLp Video Insight Search",
+      description:
+        "Dynamic, SEO-friendly blog using Strapi for content management and Next.js for server-side rendering, enabling seamless content creation, editing, and publishing with high performance and scalability.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/vaibhav720/Blog-page-using-Nextjs-and-Strapi/blob/main/README.md",
+    },
+    {
+      name: "Conversational Contest Biobert vs ChatGPT (Specialized in First Aid)",
+      description:
+        "Dynamic, SEO-friendly blog using Strapi for content management and Next.js for server-side rendering, enabling seamless content creation, editing, and publishing with high performance and scalability.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/vaibhav720/Blog-page-using-Nextjs-and-Strapi/blob/main/README.md",
     },
     {
       name: "Learn with AR",
@@ -252,8 +315,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: jobit,
+      source_code_link: "https://github.com/vaibhav720/learn_with_ar/",
     },
   ];
   
