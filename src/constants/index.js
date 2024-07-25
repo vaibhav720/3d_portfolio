@@ -42,11 +42,11 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Full Stack Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Software Developer",
       icon: mobile,
     },
     {
@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Mobile Application Developer",
       icon: creator,
     },
   ];
@@ -116,55 +116,50 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Mobile Application Developer",
+      company_name: "Limitless Health Inc.",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "May 2024 - Auguest 2024",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed features such as a timer for the video player and an email notification system using Flutter and Hive.",
+        "Additionally,contributed to the development of a team registration website using WordPress.",
+        
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Software Developer Intern",
+      company_name: "Aavenir",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "Jan 2023 - Jun 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Automated data extraction from 2870 PDFs and JSON documents for PSCU, a US-based company, utilizing Agile methodologies and Object Oriented programming concepts. Developed front-end features using Angular, CSS, and JavaScript.",
+        "Implemented parallel processing algorithms to optimize PDF data extraction and finding important key points and ranking according to confidence level, reducing processing time from 288 to 76 hours, achieving a 73.6% decrease.",
+        " Utilized Angular, JavaScript, C++, Postman, and ServiceNow Rest API for contractflow automation",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "Software Developer Intern",
+      company_name: "LDCE",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "May 2022 - September 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        " Led digitalization of the student portal, automating certificate verification and generation for 6,000 students and alumni.",
+        "Engineered and deployed 14 features, including automatic data filling and dynamic form creation, enhancing user experience and efficiency in 4 months via REST APIs using Agile development lifecycle",
+        "Technologies: React, Redux, CSS, Axios, jQuery, Mocha, Jest, Node.js, Express, MongoDB, CORS, Git.",
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "Full Stack Developer Intern",
+      company_name: "Coders Club",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Aug 2020 - Oct 2020",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        
       ],
     },
   ];
@@ -198,9 +193,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Stock Portfolio Manager",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Tech Stack: React.js, Redux, jQuery, Mocha, Jest, WebPack. Material-UI, JavaScript, CSS, HTML, Bootstrap, Firebase. APIs Used: Alpha Vantage, TradingView Widget, NewsAPI, Finnhub. Used git for the version control",
       tags: [
         {
           name: "react",
@@ -219,9 +214,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Blog Page using Next.js and Strapi",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Dynamic, SEO-friendly blog using Strapi for content management and Next.js for server-side rendering, enabling seamless content creation, editing, and publishing with high performance and scalability.",
       tags: [
         {
           name: "react",
@@ -240,9 +235,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Learn with AR",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Developed an Education AR app in HackED hackathon, were selected in top 10.Tech Used:- Github, Flutter, ARCore, Firebase.",
       tags: [
         {
           name: "nextjs",
