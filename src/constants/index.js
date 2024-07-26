@@ -15,16 +15,19 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
     carrent,
     jobit,
     tripguide,
     threejs,
+    aavenir_logo,coders,ldce_logo,limitless,
+    stock_portfolio,
+    first_aid,
+    learn_with_ar,
+    blog_page,
+    nlp_video
   } from "../assets";
-  
+
+
   export const navLinks = [
     {
       id: "about",
@@ -118,7 +121,7 @@ import {
     {
       title: "Mobile Application Developer",
       company_name: "Limitless Health Inc.",
-      icon: starbucks,
+      icon: limitless,
       iconBg: "#383E56",
       date: "May 2024 - Auguest 2024",
       points: [
@@ -130,7 +133,7 @@ import {
     {
       title: "Software Developer Intern",
       company_name: "Aavenir",
-      icon: tesla,
+      icon: aavenir_logo,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Jun 2023",
       points: [
@@ -142,7 +145,7 @@ import {
     {
       title: "Software Developer Intern",
       company_name: "LDCE",
-      icon: shopify,
+      icon: ldce_logo,
       iconBg: "#383E56",
       date: "May 2022 - September 2022",
       points: [
@@ -154,7 +157,7 @@ import {
     {
       title: "Full Stack Developer Intern",
       company_name: "Coders Club",
-      icon: meta,
+      icon: coders,
       iconBg: "#E6DEDD",
       date: "Aug 2020 - Oct 2020",
       points: [
@@ -210,7 +213,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: stock_portfolio,
       source_code_link: "https://github.com/vaibhav720/Stock-Portfolio-Manager",
     },
     {
@@ -240,23 +243,23 @@ import {
         "Dynamic, SEO-friendly blog using Strapi for content management and Next.js for server-side rendering, enabling seamless content creation, editing, and publishing with high performance and scalability.",
       tags: [
         {
-          name: "react",
+          name: "Next.js",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Strapi",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "SQLite",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: blog_page,
       source_code_link: "https://github.com/vaibhav720/Blog-page-using-Nextjs-and-Strapi/blob/main/README.md",
     },
     {
-      name: "NLp Video Insight Search",
+      name: "NLP Video Insight Search",
       description:
         "Dynamic, SEO-friendly blog using Strapi for content management and Next.js for server-side rendering, enabling seamless content creation, editing, and publishing with high performance and scalability.",
       tags: [
@@ -273,7 +276,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: nlp_video,
       source_code_link: "https://github.com/vaibhav720/Blog-page-using-Nextjs-and-Strapi/blob/main/README.md",
     },
     {
@@ -294,7 +297,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: first_aid,
       source_code_link: "https://github.com/vaibhav720/Blog-page-using-Nextjs-and-Strapi/blob/main/README.md",
     },
     {
@@ -315,7 +318,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: learn_with_ar,
       source_code_link: "https://github.com/vaibhav720/learn_with_ar/",
     },
   ];

@@ -29,8 +29,25 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import limitless  from "./company/limitless_health.png";
+ import aavenir_logo from "../assets/company/aavenir_logo.png";
+ import coders from "../assets/company/coders.jpeg";
+ import ldce_logo from "../assets/company/ldce_logo.png";
+ import learn_with_ar from  "../assets/learn_with_ar.jpeg";
+ import stock_portfolio from "../assets/stock_portfolio.png";
+ import first_aid from "../assets/first_aid.png";
+ import blog_page from "../assets/blog_page.png";
+ import nlp_video from "../assets/nlp_video.png";
 
 export {
+  blog_page,
+  first_aid,
+  stock_portfolio,
+  learn_with_ar,
+  limitless,
+  aavenir_logo,
+  coders,
+  ldce_logo,
   logo,
   backend,
   creator,
@@ -59,4 +76,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  nlp_video,
 };
